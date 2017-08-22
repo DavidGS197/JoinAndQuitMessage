@@ -1,0 +1,6 @@
+Join-Enable: true
+Join-Message: '&6%player% &ea entrado a &1L&2o&3c&4o&5s &6e&7n &8M&9i&0n&ae&cc&ba&ef&3t &d4'
+Quit-Enable: true
+Quit-Message: '&6%player% &ea salido de &1L&2o&3c&4o&5s &6e&7n &8M&9i&0n&ae&cc&ba&ef&3t &d4'
+Message-Enable: true
+Message-Join: '&3Bienvenido a Locos En Minecraft 4'
